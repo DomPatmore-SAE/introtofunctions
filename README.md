@@ -2,6 +2,8 @@
 
 Functions (or methods) are fundamental to programming. They allow you to reuse code which supports readability,scalability, and reduces errors. *Please do not continue with the next section until you are comfortable with the previous one.*
 
+0. In classexample.js. You can see Marco is "hungry". Please ammend the return statement so that it prints all of the items of his Enlish Breakfast **without** using breakfastItems[0], breakfastItems[1] and so on.
+
 1. In this repository there is a `function.js` file. In it, there are 3 functions. How can you be sure they are functions? Write your answer below
 
 
